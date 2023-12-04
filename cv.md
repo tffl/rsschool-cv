@@ -21,18 +21,18 @@
 
 </header>
 <section> 
-    <h2>about</h2><hr>
+    <h2>about</h2>
     <p class="about">I've been working as a web and graphic designer for more than 6 years, but now i am diving into the code. I'm passionate about creating user interfaces and that's why I'm here.</p>
 </section>
 
 <section> 
-    <h2>skills</h2><hr>
+    <h2>skills</h2>
     <ul class ="skills">
         <li class="skill">Figma</li> <li class="skill">UI/UX</li> <li>Adobe Photoshop</li> <li>Adobe Illustrator</li> <li>HTML</li> <li>CSS</li> <li>JavaScript</li> <li>Git</li>
     </ul>
 </section>
 <section> 
-    <h2>education</h2><hr>
+    <h2>education</h2>
     <ul>
         <li><i class="ph ph-graduation-cap"></i>psychology bachelor degree</li>
         <li><i class="ph ph-graduation-cap"></i><a href="https://www.sololearn.com/">sololearn</a> basic html, css and js</li>
@@ -40,7 +40,7 @@
     </ul>
 </section>
 <section> 
-    <h2>languages</h2><hr>
+    <h2>languages</h2>
     <ul>
         <li>English | upper intermediate</li> 
         <li>German | elementary</li> 
