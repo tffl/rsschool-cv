@@ -10,7 +10,7 @@
     <h1>merkulova natalya</h1>
     <h2>contacts</h2>
 
-    <ul class ="contacts"><hr>
+    <ul class ="contacts">
         <li><i class="ph ph-map-pin"></i>Saint Petersburg</li>
         <li><i class="ph ph-envelope"></i>natalyamerr@gmail.com</li>
         <li><i class="ph ph-discord-logo"></i>tfff</li>
