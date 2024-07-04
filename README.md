@@ -1,1 +1,2 @@
-https://tffl.github.io/rsschool-cv/index.html
+https://tffl.github.io/rsschool-cv/cv
+https://tffl.github.io/rsschool-cv/
